@@ -1,0 +1,48 @@
+/* Colors and fonts */
+
+body {
+background-color: #E5D9F2;
+color: black;
+font-family: blagovest;
+}
+
+h1 {
+color: #0D1B2A;
+font-family: cursive ;
+font-weight: 100;
+letter-spacing: -1px;
+font-size: 50px;
+}
+
+h2 {
+color: #477998;
+font-weight: lighter;
+letter-spacing: 2px;
+font-size: 25px
+}
+
+a {
+text-decoration: none;
+color: blue;
+}
+
+a:hover {
+color: purple;
+}
+
+.card {
+	text-align: center ;
+background-color: white
+padding: 30px;
+width: 900px;
+margin: 40px auto;
+box-shadow
+}
+
+.ronde{
+	border-radius: 50%
+}
+
+
+
+
